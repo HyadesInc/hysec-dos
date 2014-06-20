@@ -1,29 +1,4 @@
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
-\#    HySec-Dos - DDos IRC bot                                              \#
-\#    Copyright (C) 2012  Kamus Hadenes <kamushadenes@hyadesinc.com>        \#
-\#                                                                          \#
-\#    ATTENTION: This is meant for studies only!!!                          \#
-\#    Do not use it for the wrong purposes!!!                               \#
-\#    I'm NOT responsible for anything that may occur if you use it!!!      \#
-\#                                                                          \#
-\#                                                                          \#
-\#    This program is free software: you can redistribute it and/or modify  \#
-\#    it under the terms of the GNU General Public License as published by  \#
-\#    the Free Software Foundation, either version 3 of the License, or     \#
-\#    (at your option) any later version.                                   \#
-\#                                                                          \#
-\#    This program is distributed in the hope that it will be useful,       \#
-\#    but WITHOUT ANY WARRANTY; without even the implied warranty of        \#
-\#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         \#
-\#    GNU General Public License for more details.                          \#
-\#                                                                          \#
-\#    You should have received a copy of the GNU General Public License     \#
-\#    along with this program.  If not, see <http://www.gnu.org/licenses/>. \#
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
-
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\# HySec-Dos manual \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
-
-\# List of commands
+List of commands
 
 .die [ip]
 	Orders bots to die.
